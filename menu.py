@@ -31,7 +31,7 @@ def leer():
 
 def opcion():
     try:
-        op = int(input("ingrese la : "))
+        op = int(input("ingrese la :"))
         return op
     except ValueError:
         print("numero invalido")
