@@ -1,7 +1,7 @@
 # Proyecto_Git_ArizaLuisOsorioAndres_TorradoMichelRoaAdrian
 
-# Título
-Esta de una decripción
+# Erdapfel
+Erdapfel es aplicativo para poder agregar las ciudades alrededor del mundo con su pais de procendencia, su codigo postal y la poblacion que actualmente tiene. Erdapfel en aleman siginifica "la manzana del mundo" nombre que viene del primer globo terraqueo crado por Martin Behaim en 1492.
 
 ## Tabla de contenidos
 | Registrar  | Ciudad |
@@ -58,8 +58,8 @@ sudo apt install app
 - Ítem 2
 - Ítem 3
 
-Hecho por [algunapersona](luisAriza-9)
-Hecho por [algunapersona](MichelAdrianTorradoRoa)
+Hecho por [Luis Andres Ariza Osorio](luisAriza-9)
+Hecho por [Michel Adrian Torrado Roa](MichelAdrianTorradoRoa)
 
 >Este texto será una cita.
 
