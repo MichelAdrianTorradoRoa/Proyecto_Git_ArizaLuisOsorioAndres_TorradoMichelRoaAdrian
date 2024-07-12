@@ -6,3 +6,4 @@ def borrar(datos):
             datos["consulta"].pop(i)
             print("Ciudad eliminada")
         return datos
+    
