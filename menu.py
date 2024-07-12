@@ -1,4 +1,7 @@
 def menu_principal():
+    print("****************************************************")
+    print("Bienvenido a Erdapfel")
+    print("****************************************************")
     print("=="*20)
     print("1. Registrar una Ciudad")
     print("2. Modifcar Informacion")
