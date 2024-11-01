@@ -58,22 +58,6 @@ sudo apt install app
 - Ítem 2
 - Ítem 3
 
-Hecho por [Luis Andres Ariza Osorio](luisAriza-9)
-Hecho por [Michel Adrian Torrado Roa](MichelAdrianTorradoRoa)
+Hecho por [Luis Andres Ariza Osorio](luisAriza-9) y [Michel Adrian Torrado Roa](MichelAdrianTorradoRoa)
 
->Este texto será una cita.
 
-> [!NOTE]
->Esto es una nota especial
-
-> [!TIP]
-> Esto es un tip
-
-> [!IMPORTANT]  
-> Esto es información importante
-
-> [!WARNING]  
-> Esto es una alerta
-
-> [!CAUTION]
-> Esto es una advertencia rr
